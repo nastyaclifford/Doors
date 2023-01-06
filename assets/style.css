@@ -1,0 +1,173 @@
+h1,.h2 {
+    font-family: Georgia, Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    color: #000000;
+}
+h1 {
+    font-size: 48px;
+    
+}
+.h2{
+    position:relative;
+    bottom: 120px;
+    left: 16cm;
+    font-size: 34px;
+    
+}
+.h2:active{
+    font-size: 46px;
+    color:olive;
+}
+#logo{
+    width: 141.73px;
+    height: 130px;
+}
+.contacts{
+    width: 377px;
+    height: 38px;
+}
+.call{
+    width: 435px;
+    height: 44px;
+}
+.name{
+    font-family:Georgia, Times, serif;
+    font-style:bold;
+    font-weight:700;    
+    font-size: 24px;
+    color: #142839;
+    }
+.menu {
+    padding: 1.7cm;
+    font-family: 'Cantarell', sans-serif;
+    font-style: bolder;
+    font-weight: 700;    
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: #142839;
+}
+.menu:hover{
+    color:#FF6F55;
+}
+.header {
+    margin-bottom: 1cm;
+}   
+.group{
+    position:relative;    
+    top: 25%;
+    left: 800px;
+    width: 560px;
+    height: 350px;
+} 
+.frame{
+    position:relative;  
+    left: 5px;
+    bottom: 330px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;  
+    width: 700px;
+    height: 102px;
+} 
+.dots{
+    position:relative;    
+    left: 5px;
+    bottom: 300px;
+    width: 114px;
+    height: 24px;
+}
+.doors{
+    position:relative;
+    bottom: 360px;
+    left: 5px;
+    width: 330px;
+    height: 483px;
+}
+.door1{  
+    position:relative; 
+    bottom: 170px;
+    left: 5px;
+    width: 450px;
+    height: 720px;
+}
+.doors2{
+    position:relative;
+    bottom: 320px;
+    left: 3cm;
+    width: 330px;
+    height: 483px;
+}
+.diller{
+    position: relative;
+    bottom:200px;
+    width: 80%;
+    height: 416px;
+    background-image: url("assets/Group 23.png");
+}
+.diller1{
+    position:relative;
+    bottom: -60px;
+    left: 4cm;
+    width: 597px;
+    height: 143px;
+    font-family:Georgia, Times, serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    color: #FF6F55;
+}
+.yourname{
+    position:relative;
+    bottom: -60px;
+    left: 4cm;
+    height: 143px;
+    font-family:Georgia, Times, serif;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+}
+.input:focus{
+    background-color:#FF6F55;
+}
+.submit{
+    position: relative;
+    right: -8cm;
+    bottom: 1cm;
+    width: 330px;
+    height: 65px;
+}
+.footer1{
+    position: relative;
+    bottom: 80px;
+    width: 358px;
+    height: 195px;
+
+}
+.products1, .products2{
+    position: relative;
+    font-family: 'Cantarell', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 135%;
+    color: #142839;
+}
+.products1{
+    bottom: 8cm;
+    left: 10cm;
+}
+.products2{
+    bottom: 11.9cm;
+    left: 18cm;
+}
+.footer2{
+    position: relative;
+    bottom: 16cm;
+    left: 30cm;
+    width: 360px;
+    height: 170px;
+
+}
